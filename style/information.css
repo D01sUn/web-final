@@ -1,0 +1,11 @@
+.card-container {
+    position: relative; 
+    top: 80px;
+}
+.profile-picture {
+    width: 250px; 
+    height: 250px; 
+    object-fit:cover; 
+    object-position: center top;
+    border-radius: 10px;
+}
